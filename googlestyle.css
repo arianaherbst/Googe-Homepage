@@ -41,7 +41,6 @@ p {
 	margin-bottom: 0;
 	margin-top: 13px;
 }
-
 .bottom-right-links {
 	float:right;
 	margin-right: 30px;
@@ -49,12 +48,10 @@ p {
 	margin-top: 13px;
 
 }
-
 p:hover {
 	opacity: 1;
 	text-decoration: underline;
 }
-
 #bell, #grid {
 	float: right;
 	margin-top: 15px;
@@ -64,7 +61,6 @@ p:hover {
 #bell:hover, #grid:hover {
 	opacity: 1;
 }
-
 .logo {
 	position: relative;
 	width: 272px;
@@ -81,7 +77,6 @@ p:hover {
 	max-width: 272px;
 	max-height: 92px;
 }
-
 .search {
 	position: relative;
 	width: 600px;
@@ -128,7 +123,6 @@ input[type=submit] {
 	padding: 0 16px;
 	text-align: center;
 }
-
 input[type=submit]:hover {
 	border: 1px solid #ADADAD;
 	color: #353535;
@@ -138,7 +132,6 @@ input[type=submit]:hover {
 	height: 40px;
 	width: 100%;
 	bottom: 0;
-
 	background-color: #f2f2f2;
 	border-top: 1px solid #e4e4e4;
 }
